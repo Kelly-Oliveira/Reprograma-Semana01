@@ -21,7 +21,7 @@ Eu [Kelly Oliveira](http://instagram.com/kelly_amenduuim), sou uma dev que a qua
   Recriando a interface de login do Instagram com CSS e HTML.
   <br/>
   URL do fork: https://github.com/thielenunes/instagraminho
-  <hr>
+  <br />
   Deploy do projeto: https://kelly-oliveira.github.io/Reprograma-Semana01/
 </p>
 
