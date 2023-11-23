@@ -15,13 +15,13 @@ Eu [Kelly Oliveira](http://instagram.com/kelly_amenduuim), sou uma dev que a qua
 
 ## Projeto da Semana - 01
 
- <p align="center">
+ <p>
 
-  <br />
-  Recriando a interface de login do Instagram com CSS e HTML.
+  Recriando a interface de login do Instagram com CSS e HTML. Fazer algumas modificação no fork do projeto.
   <br/>
   URL do fork: https://github.com/thielenunes/instagraminho
   <br />
+   <br />
   Deploy do projeto: https://kelly-oliveira.github.io/Reprograma-Semana01/
 </p>
 
